@@ -1,0 +1,7 @@
+pip install unstructured
+pip install -U langchain-community faiss-cpu langchain-openai tiktoken
+pip install -qU langchain-openai   
+pip install streamlit 
+pip install unstructured   
+pip install sentence-transformers
+conda install -c conda-forge libmagic
